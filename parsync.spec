@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define	snap	20151217
 %define	rel	1
 Summary:	Parallel rsync wrapper for large data transfers
